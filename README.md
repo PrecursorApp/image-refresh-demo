@@ -2,6 +2,8 @@
 
 Demonstrates how Precursor images in a Github issue, PR, or Readme will update on refresh.
 
+Works great for infrastructure diagrams, wireframes, and illustrations of complex ideas.
+
 Just add ".png" to the end of any doc url to export your doc as an image. 
 
 Make a change to the doc, then come back here and refresh to see your changes.
