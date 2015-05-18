@@ -8,8 +8,6 @@ Just add ".svg" or ".png" to the end of any doc url to export your doc as an ima
 
 Make a change to the doc below, then come back here and refresh to see your changes.
 
-Note: we made the doc read-only for a bit to cut down on the vandalism. We'll try making it public again tomorrow. In the meantime, you can try it out on the issue https://github.com/PrecursorApp/image-refresh-demo/issues/1
-
 [17592197495501](https://precursorapp.com/document/17592197495501)
 [![cool demo doc](https://precursorapp.com/document/17592197495501.svg)](https://precursorapp.com/document/17592197495501)
 
